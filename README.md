@@ -9,6 +9,10 @@
 
 http://ctf2017.hitcon.org/
 
+8wingflying@gmail.com
+
+龍小小  longss@gmail.com  https://github.com/MyDearGreatTeacher
+
 ### 2.23(星期五)早上8:00~10:00 網站漏洞平台建置與測試
 
 xampp server建置 vs appserv建置
