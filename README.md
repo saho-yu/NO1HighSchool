@@ -111,10 +111,11 @@ OWASP TOP 10(2017)
 >* lab5:使用Metepreter指令操控遠端被入侵的Windows 
 >* lab6:Windows的net指令與防護技術
 
-### 4.17 Network Forensics 網路鑑識(MyFirstNetworSecurity)
-### 4.20 Network Forensics 網路鑑識(MyFirstNetworSecurity)
+### 4.17 Network Forensics 網路鑑識(MyFirstNetworkSecurity)
+### 4.20 Network Forensics 網路鑑識(MyFirstNetworkSecurity)
 
->* TCP/IP網路基本概論
+>* Forensics(鑑識)
+>* TCP/IP網路協定
 
 課程內容:
 >* lab1:使用wireshark分析HTTP封包
