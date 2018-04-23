@@ -129,8 +129,6 @@ xampp server建置 vs appserv建置
 ### 4.17 Network Forensics 網路鑑識(MyFirstNetworSecurity)
 ### 4.20 Network Forensics 網路鑑識(MyFirstNetworSecurity)
 
-### Network Forensics 網路鑑識(MyFirstNetworSecurity)
-
 TCP/IP網路基本概論
 
 > lab1:使用wireshark分析HTTP封包
@@ -145,8 +143,18 @@ TCP/IP網路基本概論
 
 > lab6:使用wireshark解CTF的network Forensics題目
 
-### 4.24
-### 4.27
+### 4.24 駭客隱身術(MyFirstSteganography)
+### 4.27 駭客隱身術(MyFirstSteganography)
+
+https://en.wikipedia.org/wiki/Steganography
+
+https://en.wikipedia.org/wiki/Steganography_tools
+
+>* lab1:
+>* lab2:
+>* lab3:
+>* lab4:
+>* lab5:
 
 ### 5.1	高三第六次模擬考
 ### 5.4
