@@ -5,7 +5,9 @@
 > * 高一(每星期五:早上8:00~10:00)
 > * 高三(每星期二:早上10:00~12:00)
 
-## 上課演練平台:龍大大CTF練習平台 http://120.114.62.89
+### 上課演練平台:龍大大CTF練習平台 http://120.114.62.89
+
+### [高中職生資安研習營](https://zh-tw.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
 # CTF(Capture the flag)搶旗大賽
 
@@ -43,7 +45,12 @@ CTF(Capture the flag)搶旗大賽必看
 >* [ångstromCTF](https://angstromctf.com/)
 >* MyFirstCTF {比賽時才會開放}
 
-第一屆MyFirstCTF 新聞
+第一屆MyFirstCTF 
+
+[MyFirstCTF資安競賽-活動剪影](https://www.facebook.com/media/set/?set=ms.c.eJxFVNuRRSEI62iHN9h~%3BYzuHGO9nRsEkBMu11KMly~%3BPEXwEHcC~_2GW~_zaQvi8jnpMxefABbiWdx1cdvWe6K~%3BZbW5eOrFk4vN7vvuPqdO3HO3WJzor2LfeRvrxe3je~_QQy2JlvdfW~_1ws9Z3X42P~_4dYhzq~_~%3BxO2n3h9Wb~_IEvufWsvx5bjbo5~%3Bd~_zXcevK~_5~%3BvbwvuC9OuSnyy~_uXm30K6d~%3BW1~_vPs7W29UjDb53fiod65cI~_YEv67UP~_hv5wA~%3B6pae2fxPHbH8r6su9f~_etsnloHb6nAX3Uc2TxBHGsP~%3BTLFfqs6YcvXwnqXX~_aer6GWT7Mj7RA770vs~%3B5NOvOjX78c8p3COf2r5ZPB~_7HvZ5GvbV5jjHlYP6PfPHafivukA~%3B2HfhxbPcr8eS9u6jH4G8X8bn9jf52Bf8V6R165D7n8Msmv4Rf7Wx7k5~%3Bll8Iv7p4L9ePt1oJ~%3Bzx3v6ew~%3BnMfRv0I~%3B5COSR8zRHXnguu58fCeL1I8lXAvM5ybxhf57feE~%3BYzwT7ULzfhnxzXwd5MubjIA~%3BK~_oKf~%3BD~_kMY9DPYn9V~_7z7Lw7Oe~%3BAe~_f9R4r~%3B6OlZP4x~_aOL~_8H5iX433E~%3ByS~%3BBT5eX50QR~%3BzhH1y7pMN5p1vvoP~%3B9PVbPpIvv9i~%3B93~_Y4r9lvzP4n4ihr6lvKX96hP~%3B36iv6JWXIS~%3B4D5ddPSw~-~-.bps.a.631610147230593.1073741830.455550404836569&type=1)
+
+
+第一屆MyFirstCTF資安競賽-新聞
 
 [教育部全球資訊網](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=B01D05E2B6F8A126)
 
