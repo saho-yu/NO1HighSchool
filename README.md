@@ -41,16 +41,22 @@ CTF(Capture the flag)搶旗大賽必看
 高中職學生及初學者可以先打看看
 >* [picoCTF](https://picoctf.com/)
 >* [ångstromCTF](https://angstromctf.com/)
->* MyFirstCTF 比賽時才會開放
+>* MyFirstCTF {比賽時才會開放}
 
 第一屆MyFirstCTF 新聞
 
 [教育部全球資訊網](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=B01D05E2B6F8A126)
+
 [國立教育廣播電台](http://www.ner.gov.tw/news/?recordId=46123&_sp=detail)
+
 [Yahoo奇摩新聞::資安小尖兵—CTF搶旗賽展青年資安潛力](https://tw.news.yahoo.com/資安小尖兵-ctf搶旗賽展青年資安潛力-230000374.html?soc_src=social-sh&soc_trk=fb)
+
 [Pchome新聞:資安小尖兵—CTF搶旗賽展青年資安潛力](http://news.pchome.com.tw/living/eradio/20180219/index-51899480057896217009.html)
+
 [Hinet新聞::資安小尖兵—CTF搶旗賽展青年資安潛力](https://times.hinet.net/news/21506634)
+
 [中時電子報:全球搶資安人才 教部首辦CTF搶旗賽扎根](http://www.chinatimes.com/realtimenews/20180219000650-260405)
+
 [市民時報](http://citytimes.tw/Newsletter/News.aspx?Iinfo=4&iNumber=24761)
 
 # 上課時程表及課程大綱
