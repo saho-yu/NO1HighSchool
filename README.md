@@ -41,6 +41,9 @@ CTF(Capture the flag)搶旗大賽必看
 高中職學生及初學者可以先打看看
 >* [picoCTF](https://picoctf.com/)
 >* [ångstromCTF](https://angstromctf.com/)
+>* MyFirstCTF 比賽時才會開放
+
+MyFirstCTF 新聞
 
 # 上課時程表及課程大綱
 
