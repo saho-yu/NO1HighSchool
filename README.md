@@ -18,7 +18,16 @@ CTF(Capture the flag)搶旗大賽必看
 >* [CTF TIME](https://ctftime.org/)
 >* [CTF@github](https://github.com/ctfs)
 
->* [HitconCTF 2017](http://ctf2017.hitcon.org/)
+[世界著名的CTF(Capture the flag)搶旗大賽](https://ctftime.org/ctfs)
+>* [美國DEF CON](https://www.defcon.org/)
+>* [台灣HitconCTF 2017](http://ctf2017.hitcon.org/)
+>* [日本SECCON CTF](https://2017.seccon.jp/)
+有些網站沒有上線,請參考世界著名的CTF(Capture the flag)搶旗大賽的超連結
+
+高中職學生及初學者可以先打看看
+>* [picoCTF](https://picoctf.com/)
+>* [ångstromCTF](https://angstromctf.com/)
+
 
 
 ### 2.23(星期五)早上8:00~10:00 網站漏洞平台建置與測試
