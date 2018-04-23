@@ -9,6 +9,10 @@
 
 ### [高中職生資安研習營](https://zh-tw.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)
 
+### [2018 Summer Camp 資安夏令營(申請書)]
+
+錄取後會在公告
+
 # CTF(Capture the flag)搶旗大賽
 
 認識CTF(Capture the flag)搶旗大賽
