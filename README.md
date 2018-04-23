@@ -25,6 +25,19 @@ CTF(Capture the flag)搶旗大賽必看
 
 有些網站沒有上線,請參考世界著名的CTF(Capture the flag)搶旗大賽的超連結
 
+世界駭客大賽DEFCON CTF台灣戰記
+>* [2017年DEF CON25 CTF: 第二名](https://www.ithome.com.tw/news/115940)
+>* [2016年DEF CON24 CTF: 第四名]()
+>* [2015年DEF CON23 CTF: 第四名](https://www.ithome.com.tw/news/97998)
+>* [2014年DEF CON22 CTF: 第二名](https://www.ithome.com.tw/news/90031)
+
+世界級資安競賽在臺灣Hitcon
+
+>* [第三屆2017年12月](https://www.ithome.com.tw/news/119379)
+>* [第二屆2016年12月](https://www.ithome.com.tw/news/110013)
+>* [第一屆2015年12月](https://www.ithome.com.tw/news/100782)
+>* [韓國天才駭客Lokihardt領軍韓國隊奪冠](https://www.ithome.com.tw/news/100827)
+
 高中職學生及初學者可以先打看看
 >* [picoCTF](https://picoctf.com/)
 >* [ångstromCTF](https://angstromctf.com/)
