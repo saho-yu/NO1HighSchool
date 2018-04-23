@@ -7,8 +7,18 @@
 
 ## 上課演練平台:龍大大CTF練習平台 http://120.114.62.89
 
-http://ctf2017.hitcon.org/
+## CTF(Capture the flag)搶旗大賽
 
+認識CTF(Capture the flag)搶旗大賽
+>* [李倫銓(2015.10.24)什麼是駭客 CTF 競賽？](https://www.bnext.com.tw/article/37765/BN-2015-10-24-182518-77)
+>* [一次看懂CTF資安攻防賽(2016)](https://www.ithome.com.tw/news/102969)
+>* [你要學的可多了?!](https://github.com/apsdehal/awesome-ctf)
+
+CTF(Capture the flag)搶旗大賽必看
+>* [CTF TIME](https://ctftime.org/)
+>* [CTF@Ggithub](https://github.com/ctfs)
+
+>* [HitconCTF 2017](http://ctf2017.hitcon.org/)
 
 
 ### 2.23(星期五)早上8:00~10:00 網站漏洞平台建置與測試
