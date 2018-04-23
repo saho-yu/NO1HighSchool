@@ -16,7 +16,7 @@
 
 CTF(Capture the flag)搶旗大賽必看
 >* [CTF TIME](https://ctftime.org/)
->* [CTF@Ggithub](https://github.com/ctfs)
+>* [CTF@github](https://github.com/ctfs)
 
 >* [HitconCTF 2017](http://ctf2017.hitcon.org/)
 
