@@ -1,6 +1,5 @@
 # Message from 龍大大
 
-http://172.20.155.127/Ubuntu%2016.04_64bit_CTF_2018.2.ova
 
 # 1.NO1Security by 龍大大
 這是開在國立台南一中的資安課程
