@@ -1,6 +1,6 @@
 # Steg-1: STEG(必) 20
 
-[史上最會解CTF的水母](pic/Jellyfish.jpg)
+![史上最會解CTF的水母](pic/Jellyfish.jpg)
 
 # Steg-2
 >*  CSAW QUALS 2015: keep-calm-and-ctf(必)50
